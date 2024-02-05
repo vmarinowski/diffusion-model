@@ -4,7 +4,7 @@ A diffusion model which generating characters from 'Rick and Morty' animation se
 
 # Dataset
 
-Dataset is publicaly available in Kaggle -> [Dataset](https://www.kaggle.com/datasets/mriffaud/rick-and-morty)
+Dataset is publicily available in Kaggle -> [Dataset](https://www.kaggle.com/datasets/mriffaud/rick-and-morty)
 
 ## This model highly influanced by this amazing notebook -> [Colab Notebbok](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/annotated_diffusion.ipynb#scrollTo=3a159023)
 

@@ -12,7 +12,7 @@ dataset = 'rick-and-morty'
 !kaggle datasets download -d dataset
 # {"username": "<userID.", "key": "<userKey>"}
 
-!unzip titanic.zip
+!unzip dataset.zip
 
 image_shape = (128, 128)
 batch_size = 128

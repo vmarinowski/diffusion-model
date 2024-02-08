@@ -2,7 +2,7 @@
 
 A diffusion model which generating characters from 'Rick and Morty' animation series. 
 
-# Dataset
+## Dataset
 
 Dataset is publicily available in Kaggle -> [Dataset](https://www.kaggle.com/datasets/mriffaud/rick-and-morty)
 

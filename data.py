@@ -32,11 +32,11 @@ retransform_img = transforms.Compose([
     transforms.ToPILImage()
 ])
 
-dir_path = "path to your image directory"
+dir_path = 'rick-and-morty/rick_and_morty'
 
 def get_images(path_to_img = dir_path):
     images = []
-    for f in os.scandir('/kaggle/input/rick-and-morty/rick_and_morty'):
+    for f in os.scandir(path_to_img):
         for step, image_dir in enumerate(os.scandir(f.path)):
             image_path = image_dir.path
             image = PIL.Image.open(image_path)
